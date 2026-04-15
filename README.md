@@ -46,22 +46,15 @@ After the replacement, the ANC squealing disappeared and the headphones worked n
 ### Original microphone and visible oxidation
 
 <p align="center">
-  <img src="./images/original-microphone-with-visible-oxidation.jpg" width="320">
-  <img src="./images/oxidation-on-microphone-cover.jpg" width="320">
+  <img src="./images/original-microphone-with-visible-oxidation.jpg" height="220">
+  <img src="./images/oxidation-on-microphone-cover.jpg" height="220">
 </p>
 
 ### Replacement microphone and repaired result
 
 <p align="center">
-  <img src="./images/replacement-microphone-closeup.jpg" width="320">
-  <img src="./images/soldered-replacement-microphone-closeup.jpg" width="320">
-</p>
-
-### Opened earcups
-
-<p align="center">
-  <img src="./images/both-earcups-opened.jpg" width="320">
-  <img src="./images/both-earcups-opened-with-replacement-microphone.jpg" width="320">
+  <img src="./images/replacement-microphone-closeup.jpg" height="190">
+  <img src="./images/soldered-replacement-microphone-closeup.jpg" height="190">
 </p>
 
 Additional repair photos are available in the `images/` folder.
