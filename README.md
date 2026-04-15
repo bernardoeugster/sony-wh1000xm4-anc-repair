@@ -36,24 +36,39 @@ After the replacement, the ANC squealing disappeared and the headphones worked n
 
 ## Repository contents
 
-- `XM4_Repair.pdf` – full report
-- `images/` – repair photos
-- `media/` – supplementary videos
-- `README.md` – project summary
+- `XM4_Repair.pdf` - full report
+- `images/` - repair photos
+- `media/` - supplementary video
+- `README.md` - project summary
 
-## Images
+## Selected Images
 
 ### Original microphone and visible oxidation
 
-![Original microphone with visible oxidation](./images/original-microphone-with-visible-oxidation.jpg)
+<p align="center">
+  <img src="./images/original-microphone-with-visible-oxidation.jpg" width="320">
+  <img src="./images/oxidation-on-microphone-cover.jpg" width="320">
+</p>
 
-![Oxidation on microphone cover](./images/oxidation-on-microphone-cover.jpg)
+### Replacement microphone and repaired result
 
-## Replacement microphone and soldering
+<p align="center">
+  <img src="./images/replacement-microphone-closeup.jpg" width="320">
+  <img src="./images/soldered-replacement-microphone-closeup.jpg" width="320">
+</p>
 
-![Replacement microphone closeup](./images/replacement-microphone-closeup.jpg)
+### Opened earcups
 
-![Soldered replacement microphone closeup](./images/soldered-replacement-microphone-closeup.jpg)
+<p align="center">
+  <img src="./images/both-earcups-opened.jpg" width="320">
+  <img src="./images/both-earcups-opened-with-replacement-microphone.jpg" width="320">
+</p>
+
+Additional repair photos are available in the `images/` folder.
+
+## Supplementary video
+
+- `media/anc-squealing-before-repair.mp4`
 
 ## Full report
 
